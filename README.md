@@ -50,3 +50,12 @@ A Python-based GUI tool for automated **subdomain** and **subdirectory** enumera
    ```bash
    git clone https://github.com/Spandan-Bhattarai/Web-Enumeration-Scanner
    cd Web-Enumeration-Scanner
+
+2. **Install required libraries**  
+   ```bash
+   pip install requests
+  
+3. **Run the main GUI**  
+   ```bash
+   python main.py
+
